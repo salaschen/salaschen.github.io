@@ -1,6 +1,14 @@
+# 基本信息
 title: Bill的博客
 description: 记录忙碌生活中的一点思考
 theme: minima
+
+# 链接格式
+permalink: /:year/:month/:day/:title/
+
+# 作者信息
+author:
+  name: Bill Chen
 
 # 调整时区
 timezone: Australia/Sydney 
