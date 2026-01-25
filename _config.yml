@@ -6,10 +6,6 @@ theme: minima
 # 链接格式
 permalink: /:year/:month/:day/:title/
 
-# 作者信息
-author:
-  name: Bill Chen
-
 # 调整时区
 timezone: Australia/Sydney 
 
